@@ -1,4 +1,7 @@
 # CAD
-Various CAD files that other's may find useful
+Various CAD developed by the Arm lab
 
-![something](Robotiq/finger.JPG)
+## [Robotiq](Robotiq)
+We've made some alterations to our 3 finger Robotiq grippers
+
+![](Robotiq/Fingertips/Fingers_on_robot.JPG)
